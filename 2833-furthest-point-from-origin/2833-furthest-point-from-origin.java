@@ -17,17 +17,6 @@ class Solution {
             }
         }
 
-        if(count2 == count3){
-            sum = sum + Math.abs(count1);
-        }
-        else if(count2 > count3){
-            sum = sum + Math.abs(count2 + count1 -count3);
-        
-        }
-        else{
-            sum = sum + Math.abs(count3 + count1 - count2);
-        }
-        
-        return sum ;
+        return count1 + Math.abs(count3 - count2);
     }
 }
