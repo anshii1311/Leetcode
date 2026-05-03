@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anshii1311/Leetcode/tree/master/0053-maximum-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshii1311/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshii1311/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/anshii1311/Leetcode/tree/master/2833-furthest-point-from-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anshii1311/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anshii1311/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
