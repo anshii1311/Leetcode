@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshii1311/Leetcode/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/anshii1311/Leetcode/tree/master/0322-coin-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshii1311/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshii1311/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshii1311/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anshii1311/Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/anshii1311/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/anshii1311/Leetcode/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/anshii1311/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anshii1311/Leetcode/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anshii1311/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
