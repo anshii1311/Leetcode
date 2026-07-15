@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshii1311/Leetcode/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/anshii1311/Leetcode/tree/master/0322-coin-change) |
+| [0860-lemonade-change](https://github.com/anshii1311/Leetcode/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshii1311/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshii1311/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/anshii1311/Leetcode/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/anshii1311/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
